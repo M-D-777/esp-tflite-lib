@@ -8,7 +8,7 @@ tflite-lib as an ESP-IDF component
 
 ## Example
 
-- [tflite-micro-esp-examples](https://github.com/M-D-777/tflite-micro-esp-examples)
+- [esp_tflite_micro_speech](https://github.com/M-D-777/esp_tflite_micro_speech)
 
 ## Forked form
 
